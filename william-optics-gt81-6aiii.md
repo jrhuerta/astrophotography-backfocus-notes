@@ -12,6 +12,22 @@
 | **Total Backfocus**   | **62.1mm**       |
 
 
+## Focuser configration
+
+ZWO EAF focuser
+
+| **Specification**    | **Value**       |
+|----------------------|-----------------|
+| Steps per rev        | 5760            |
+| Total revs           | 4               |
+| Total steps          | 23040           |
+| Backlash             | 55 steps        |
+| Step size            | 3.69 microns    |
+| CFZ @ F4.9           | 49 microns      |
+| CFZ total steps      | 13              |
+
+
+## Scope
 
 ![William Optocs GT81](images/GT-81-IV.webp)
 
